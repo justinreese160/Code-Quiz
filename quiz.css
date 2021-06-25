@@ -1,0 +1,32 @@
+#questions {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+    align-items: center;
+    
+}
+
+#startTime {
+    height: 100px;
+    width: 200px;
+    border:solid, 30px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: purple;
+    color: white; 
+    justify-content: center;
+       
+
+}
+
+#time {
+    position: fixed;
+    top: 15px;
+    right: 0;
+}
+
+
